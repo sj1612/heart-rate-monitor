@@ -19,7 +19,7 @@ This project presents a non-invasive optical biosensing device designed to measu
 
 ### Optical Sensing
 
-* IR LED transmitter and photodiode receiver
+* LEDs transmitter and photodiode receiver
 * Fingertip-based reflective PPG signal acquisition
 
 ### Analog Front End
@@ -30,7 +30,7 @@ This project presents a non-invasive optical biosensing device designed to measu
 
 ### Embedded Processing
 
-* ESP32 microcontroller
+* Arduino Nano microcontroller
 * High-resolution ADC sampling
 * Digital signal processing and parameter computation
 
@@ -40,9 +40,10 @@ This project presents a non-invasive optical biosensing device designed to measu
 ## Tech Stack
 
 * Analog Electronics (Op-amps, Active Filters)
-* ESP32 Microcontroller
+* Arduino Nano Microcontroller
 * Embedded C / Arduino Framework
 * LTspice (circuit simulation)
+* SimuIDE simulation
 
 ---
 
